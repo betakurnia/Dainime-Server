@@ -1,1 +1,1 @@
-Dainime app created using React.js & Node.js.
+Dainime app created using Node.js.
